@@ -4,7 +4,7 @@
 - **SIEM (Security Information and Event Management)**: Collects, stores, and analyzes security data from multiple sources.
 - **Splunk**: A powerful platform that indexes machine data and lets you search, visualize, and alert on it.
 
-> _“Wise people think before they act.”_ — Proverbs 13:16 (NLT)  
+> _“Wise people think before they act.”_ — Proverbs 13:16 
 **Reflection**: Before diving into logs, understand the purpose—detect threats, ensure accountability, and protect your digital environment.
 ---
 ### 2. **Identify Your Log Sources**
