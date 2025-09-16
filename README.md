@@ -28,7 +28,7 @@ Common log sources include:
 ### 4. **Use Basic Search Queries**
 Splunk uses its own query language called **SPL (Search Processing Language)**.
 
-#### 🔎 Example: Failed Login Attempts
+#### Example: Failed Login Attempts
 ```spl
 index=security sourcetype=linux_secure "Failed password"
 | stats count by src_ip
@@ -87,8 +87,7 @@ index=security "Failed password"
 
 ---
 
-## 🧪 Bonus: Youth-Friendly Exercise
-
+## Exercise
 **Scenario**: A student notices their school computer is slow. You suspect malware.
 
 **Task**:
@@ -98,7 +97,3 @@ index=security "Failed password"
 
 **Discussion**:
 - How does vigilance in cybersecurity mirror vigilance in life?
-
----
-
-Would you like me to help you format this into a GitHub README or create sample quiz questions based on this guide? I can also help you build visual aids or lab exercises for your learners.
